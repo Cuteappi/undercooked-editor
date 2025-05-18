@@ -1,0 +1,7 @@
+[*.{js,ts}]
+tabwidth = 4
+indent_style = tab
+
+[*.{css,pcss,html}]
+tabwidth = 2
+indent_style = space
